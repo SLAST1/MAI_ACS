@@ -7,3 +7,4 @@ Variants:
 4. [Wolfram Alpha: Research function](/Lab_4/Lab_4.pdf)
 5. [Wolfram Alpha: Newton|Dichotomy|GCD|Simplify the equation](/Lab_5/Lab2.pdf)
 6. [Wolfram Alpha: Predator-Prey|Body movement simulation](/Lab_6/Lab06.pdf)
+7. [Wolfram Alpha: Matrix|SLE](/Lab_7/)
